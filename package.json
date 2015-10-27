@@ -1,6 +1,6 @@
 {
   "name": "bars-app",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Bars-App is a simple framework for building JS-based web applications.",
   "main": "index.js",
   "scripts": {
