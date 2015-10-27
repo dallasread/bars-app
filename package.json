@@ -1,0 +1,17 @@
+{
+  "name": "bars-app",
+  "version": "0.1.0",
+  "description": "Bars-App is a simple framework for building JS-based web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dallas Read",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.0",
+    "bars": "^0.1.11",
+    "generate-js-bindings": "^1.0.10",
+    "generate-js-custom-element": "1.0.0"
+  }
+}
