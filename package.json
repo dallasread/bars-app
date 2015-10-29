@@ -1,10 +1,14 @@
 {
   "name": "bars-app",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Bars-App is a simple framework for building JS-based web applications.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dallasread/bars-app"
   },
   "author": "Dallas Read",
   "license": "MIT",

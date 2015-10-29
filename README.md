@@ -9,6 +9,7 @@ var myApp = require('bars-app').Router.create({
     },
     urlType: 'hash' // hash | history | none
 });
+myApp.go('/');
 ```
 
 ## What does a Route look like? (eg. `../path/to/index/route`)
@@ -83,4 +84,3 @@ In short, however you want it to look. You can use HTML or plain text. Use `{{}}
 
 ## TODO
 - History urlType
-- Debug mode
