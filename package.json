@@ -1,6 +1,6 @@
 {
   "name": "bars-app",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Bars-App is a simple framework for building JS-based web applications.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "async": "^1.5.0",
-    "bars": "^0.1.11",
+    "bars": "^0.1.17",
     "generate-js-bindings": "^1.0.10",
     "generate-js-custom-element": "1.0.0"
   }
